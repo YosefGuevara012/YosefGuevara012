@@ -1,7 +1,5 @@
 ### Hi I'm Yosef Guevara 👋 ; I'm currently working On! 
 
-<!--
-**YosefGuevara012/YosefGuevara012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Likedin](https://www.linkedin.com/in/yosef-guevara-salamanca-769235178/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love science fiction 
+
+<!--
+**YosefGuevara012/YosefGuevara012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
