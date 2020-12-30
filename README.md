@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 3Dtracking
-- 🌱 I’m currently learning ... Statisics, ML and programming videogames and animation. 
+- 🌱 I’m currently learning ... Statisics, ML, programming videogames and animation. 
 - 👯 I’m looking to collaborate on ... ML proyects
 - 🤔 I’m looking for help with ... ML
 - 💬 Ask me about ... Robotics
